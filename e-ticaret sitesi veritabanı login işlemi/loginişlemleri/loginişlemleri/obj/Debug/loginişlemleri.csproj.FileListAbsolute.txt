@@ -1,0 +1,10 @@
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\bin\Debug\loginişlemleri.exe.config
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\bin\Debug\loginişlemleri.exe
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\bin\Debug\loginişlemleri.pdb
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.csproj.AssemblyReference.cache
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.Form1.resources
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.Properties.Resources.resources
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.csproj.GenerateResource.cache
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.exe
+C:\Users\Eda\source\repos\loginişlemleri\loginişlemleri\obj\Debug\loginişlemleri.pdb
